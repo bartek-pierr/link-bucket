@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Facebook",
+        "url": "https://www.facebook.com/",
+        "logoURL": "./src/assets/icons/icon-img.svg",
+        "logoClearbitAPI": "https://logo.clearbit.com/segment.com/facebook.com/",
+        "description": "Przykładowy opis - Facebook"
+    },
+    {
+        "id": 2,
+        "name": "Instagram",
+        "url": "https://www.instagram.com/",
+        "logoURL": "./src/assets/icons/icon-img.svg",
+        "logoClearbitAPI": "https://logo.clearbit.com/segment.com/instagram.com/",
+        "description": "Przykładowy opis - Instagram"
+    },
+    {
+        "id": 3,
+        "name": "GitHub",
+        "url": "https://github.com/",
+        "logoURL": "./src/assets/icons/icon-img.svg",
+        "logoClearbitAPI": "https://logo.clearbit.com/segment.com/github.com/",
+        "description": "Przykładowy opis - GitHub"
+    },
+    {
+        "id": 4,
+        "name": "GitLab",
+        "url": "https://gitlab.com/",
+        "logoURL": "./src/assets/icons/icon-img.svg",
+        "logoClearbitAPI": "https://logo.clearbit.com/segment.com/gitlab.com/",
+        "description": "Przykładowy opis - GitLab"
+    },
+    {
+        "id": 5,
+        "name": "Bitbucket",
+        "url": "https://bitbucket.org/",
+        "logoURL": "./src/assets/icons/icon-img.svg",
+        "logoClearbitAPI": "https://logo.clearbit.com/segment.com/bitbucket.org/",
+        "description": "Przykładowy opis - Bitbucket"
+    },
+    {
+        "id": 6,
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/",
+        "logoURL": "./src/assets/icons/icon-img.svg",
+        "logoClearbitAPI": "https://logo.clearbit.com/segment.com/linkedin.com/",
+        "description": "Przykładowy opis - LinkedIn"
+    },
+    {
+        "id": 7,
+        "name": "Spotify",
+        "url": "https://spotify.com/",
+        "logoURL": "./src/assets/icons/icon-img.svg",
+        "logoClearbitAPI": "https://logo.clearbit.com/segment.com/spotify.com/",
+        "description": "Przykładowy opis - Spotify"
+    },
+    {
+        "id": 8,
+        "name": "YouTube",
+        "url": "https://www.youtube.com/",
+        "logoURL": "./src/assets/icons/icon-img.svg",
+        "logoClearbitAPI": "https://logo.clearbit.com/segment.com/www.youtube.com/",
+        "description": "Przykładowy opis - YouTube"
+    },
+    {
+        "id": 9,
+        "name": "Behance",
+        "url": "https://www.behance.net/",
+        "logoURL": "./src/assets/icons/icon-img.svg",
+        "logoClearbitAPI": "https://logo.clearbit.com/segment.com/behance.net/",
+        "description": "Przykładowy opis - Behance"
+    },
+    {
+        "id": 10,
+        "name": "Dribbble",
+        "url": "https://dribbble.com/",
+        "logoURL": "./src/assets/icons/icon-img.svg",
+        "logoClearbitAPI": "https://logo.clearbit.com/segment.com/dribbble.com/",
+        "description": "Przykładowy opis - Dribbble"
+    }
+]
